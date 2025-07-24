@@ -7,5 +7,8 @@ I'm a university student. I created this account for posting my personal project
 - Web Scraping (also a general fascination with using Python to interact with websites)
 - Linux (I daily drive Debian)
 - Home Servers (Minecraft servers, DNS servers, HTTP servers, File servers)
+- FOSS Software
+- Privacy/Network Security
+- Cryptography
 
 My best projects can be found under my pinned repositories. Most of my repositories are random programs I've made which I may or may not ever update again.
