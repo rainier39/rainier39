@@ -7,7 +7,7 @@ I'm a university student. I created this account for posting my personal project
 - Web Scraping (also a general fascination with using Python to interact with websites)
 - Linux (I daily drive Debian)
 - Home Servers (Minecraft servers, DNS servers, HTTP servers, File servers)
-- FOSS Software
+- FOSS (Free Open-Source Software)
 - Privacy/Network Security
 - Cryptography
 
