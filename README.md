@@ -1,16 +1,11 @@
-## Hi there 👋
+## About Me
+I'm a university student. I created this account for posting my personal projects for employers, posterity, or whoever happens to take an interest. Some of my interests are:
+- Cybersecurity
+- PHP/Web Applications in general
+- Python (my favorite coding language)
+- C/C++ (whenever performance/speed is needed)
+- Web Scraping (also a general fascination with using Python to interact with websites)
+- Linux (I daily drive Debian)
+- Home Servers (Minecraft servers, DNS servers, HTTP servers, File servers)
 
-<!--
-**rainier39/rainier39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My best projects can be found under my pinned repositories. Most of my repositories are random programs I've made which I may or may not ever update again.
