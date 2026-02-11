@@ -1,5 +1,5 @@
 ## About Me
-I'm a university student. I created this account for posting my personal projects for employers, posterity, or whoever happens to take an interest. Some of my interests are:
+I'm a university student. I created this account to publish my personal projects for employers, posterity, or whoever happens to take an interest. Some of my interests are:
 - Cybersecurity
 - PHP/Web Applications in general
 - Python (my favorite coding language)
