@@ -4,6 +4,7 @@ I'm a university student. I created this account to publish my personal projects
 - PHP/Web Applications in general
 - Python (my favorite coding language)
 - C/C++ (whenever performance/speed is needed)
+- Automating tasks with scripts (Python/Shell)
 - Web Scraping (also a general fascination with using Python to interact with websites)
 - Linux (I daily drive Debian)
 - Home Servers (Minecraft servers, DNS servers, HTTP servers, File servers)
